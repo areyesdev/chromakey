@@ -4,3 +4,9 @@ body{
     align-items: center;
     min-height: 100vh;
 }
+
+canvas {
+    background-image: url('../img/playa.jpg');
+    background-size: cover;
+    background-position: center;
+}
